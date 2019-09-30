@@ -138,6 +138,6 @@ Notice how the output password is the same as our password before we encrypted i
 
 ## Acknowledgements
 
-Please see the random_password and Caesar_cipher script documentations for more details on the components of this project. 
-This project pulls from these two scripts to encrypt information using the Caesar cipher and uses my Random Password Generator script.
+Please see the (random password)[https://github.com/gitkenan/Random-Password] and (Caesar shift)[https://github.com/gitkenan/Caesar_shift] script documentations for more details on the components of this project. 
+This project uses these two scripts to encrypt information using the Caesar cipher and uses my Random Password Generator script.
 
